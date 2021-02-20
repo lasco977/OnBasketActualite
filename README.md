@@ -2,7 +2,7 @@
 
 Création le 20/02/2021 
 
-*image du logo *
+![Basketball NEWS](C:\Users\utilisateur\projet\SiteWeb\Basketball NEWS.png)
 
 Création d'un site dynamique sur le basket français et américains. le site devra être mis à jour quotidiennement. Ceci est un projet pour me donner une expérience professionnel donc toute aide est la bienvenue. Je voudrais finir ce projet avant cet été et continuer à mettre à jour pour la saison 2021 - 2022
 
@@ -30,17 +30,25 @@ Que vous soyez débutant ou bien professionnel vous pouvez participer à ce proj
 
 ### Installation
 
-Utilisez la plateforme github pour pouvoir récupérer le dossier. Ajouter tout votre travail sur une Branch merci bien.
+Utilisez la plateforme github pour pouvoir récupérer le dossier. 
+
+Pour récupérer le dépot il suffit d'utiliser dans un fichier avec git init d'utiliser la commande git clone +[url du projet] 
+
+Ensuite vous pouvez modifiez ou ajouter des fichiers
+
+Ajouter votre travail sur une branche et voila.
+
+Utiliser le site de github ou youtube pour bien savoir utiliser git et github
 
 ## Etape du projet 
 
-- Visualisation du site (maquette)
+- [x] Visualisation du site (maquette)
 
-- Structuration du code avec HTML
+- [ ] Structuration du code avec HTML
 
-- Décoration avec CSS 
+- [ ] Décoration avec CSS 
 
-- Rendre dynamique avec le Javascript 
+- [ ] Rendre dynamique avec le Javascript 
 
   
 
@@ -67,7 +75,7 @@ Si vous souhaitez contribuer, veuillez me contacter par mail puis lisez le fichi
 
 Tous les auteurs présent sur ce projet :
 
-- **Nicolas Magne** alias @lasco977
+- **Nicolas Magne** alias /contirubors https://github.com/lasco977/OnBasketActualite
 
 
 
@@ -97,15 +105,15 @@ Image de l'arborescence
 
 
 
-Image de la maquette 
+Image de la maquette fonctionnelle![Wireframe complete](C:\Users\utilisateur\projet\SiteWeb\Wireframe complete.png)
 
+Image de la  maquette graphique 
 
+![Maquette graphique final](C:\Users\utilisateur\projet\SiteWeb\Maquette graphique final.png)
 
-
-
-Image de la deuxieme maquette 
-
-
+```
+![Screenshot](Maquette_graphique_final.png)
+```
 
 
 
@@ -117,5 +125,7 @@ Future image du site web et du logo
 
 <h1>Contacter </h1>
 
-Si y'a des question, veuillez me contacter : nicomagne977@gmail.com ou bien sur mon github (mettre github) ou bien encore sur mon instagram :
+Si y'a des question, veuillez me contacter : nicomagne977@gmail.com ou bien sur mon github (mettre github) ou bien encore sur mon instagram : @nba_france_tv
+
+
 
