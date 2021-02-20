@@ -103,19 +103,17 @@ Image de l'arborescence
 
 <img src="C:\Users\utilisateur\projet\SiteWeb\arborescence_site_github.png" alt="arborescence_site_github" style="zoom:150%;" />
 
+![Cat](https://github.com/lasco977/OnBasketActualite/blob/master/arborescence_site_github.png)
+
+Image de la maquette fonctionnelle![Wireframe_complete](C:\Users\utilisateur\projet\SiteWeb\Wireframe_complete.png)
+
+![Cat](https://github.com/lasco977/OnBasketActualite/blob/master/Wireframe_complete.png)
 
 
-Image de la maquette fonctionnelle![Wireframe complete](C:\Users\utilisateur\projet\SiteWeb\Wireframe complete.png)
 
 Image de la  maquette graphique 
 
-![Maquette graphique final](C:\Users\utilisateur\projet\SiteWeb\Maquette graphique final.png)
-
-```
-![Screenshot](Maquette_graphique_final.png)
-```
-
-
+![Cat](https://github.com/lasco977/OnBasketActualite/blob/master/Maquette_graphique_final.png)
 
 Future image du site web et du logo 
 
